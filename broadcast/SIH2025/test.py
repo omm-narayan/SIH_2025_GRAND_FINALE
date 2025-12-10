@@ -150,8 +150,8 @@ def index():
         <img src="/co2_graph" width="640"/>
         <h2>Distance Graph</h2>
         <img src="/distance_graph" width="640"/>
-        <h2>Presence Graph</h2>z  k
-        <img src="/presence_graph" width="640"/>
+    
+
     </body>
     </html>
     '''
